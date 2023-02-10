@@ -1,0 +1,15 @@
+baseURL = 'http://azaouad.info/'
+languageCode = 'fr'
+title = 'azaouad info issalen'
+
+###theme = 'hugo-swift-theme-master'
+##theme = 'aether'
+theme = 'bilberry-hugo-theme'
+#theme = 'binario'
+#theme = 'hyde-hyde'
+#theme = 'hugo-xmag'
+#theme = 'terrassa'
+#theme = 'amnix'
+#theme = 'justice-hugo-template'
+
+#theme = 'hugo-theme-doors'
